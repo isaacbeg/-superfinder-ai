@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: the-secret-society
+    env: node
+    plan: free
+    buildCommand: npm install && npm run install:all && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: SERPAPI_API_KEY
+        sync: false

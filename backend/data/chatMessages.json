@@ -1,0 +1,230 @@
+[
+  {
+    "id": "a28d3954-8c08-477b-a409-796e21643e9d",
+    "userId": "8fe95888-48a5-4b74-ae6b-0fab6fdafc5e",
+    "username": "isaacbeg1",
+    "role": "user",
+    "status": "sent",
+    "text": "what's a good price for a used iPhone 15 pro max 100% battery capacit?",
+    "listingUrl": "",
+    "replyTo": null,
+    "likedBy": [],
+    "reportedBy": [],
+    "reports": [],
+    "createdAt": "2026-05-04T22:47:56.731Z"
+  },
+  {
+    "id": "1b92dd83-2a7d-48b5-9f77-b6be19c3c2b5",
+    "userId": "superfinderx-ai",
+    "username": "superfinderx-ai",
+    "role": "assistant",
+    "status": "sent",
+    "text": "A good target for iPhone 15 Pro Max is around $850-$1,100, with anything under $900 looking strong if it is unlocked, clean, and from a trusted seller. With 100% battery, it can sit near the top of that range if condition, storage, and warranty are strong. Verify IMEI/iCloud lock, Face ID, cameras, speakers, charging, cellular, and seller reviews before paying.",
+    "listingUrl": "",
+    "replyTo": {
+      "id": "a28d3954-8c08-477b-a409-796e21643e9d",
+      "username": "isaacbeg1",
+      "text": "what's a good price for a used iPhone 15 pro max 100% battery capacit?",
+      "listingUrl": ""
+    },
+    "likedBy": [],
+    "reportedBy": [],
+    "reports": [],
+    "createdAt": "2026-05-05T01:46:51.399Z"
+  },
+  {
+    "id": "9736cc2f-964f-4dc9-980a-95a214720e4e",
+    "userId": "8fe95888-48a5-4b74-ae6b-0fab6fdafc5e",
+    "username": "isaacbeg1",
+    "role": "user",
+    "status": "sent",
+    "text": "thank you. but on question what's the weather in Richmond Hill Ontario",
+    "listingUrl": "",
+    "replyTo": null,
+    "likedBy": [],
+    "reportedBy": [],
+    "reports": [],
+    "createdAt": "2026-05-05T01:53:36.382Z"
+  },
+  {
+    "id": "a3765d1b-47d3-46a1-8f53-c8fa26ac53af",
+    "userId": "8fe95888-48a5-4b74-ae6b-0fab6fdafc5e",
+    "username": "isaacbeg1",
+    "role": "user",
+    "status": "sent",
+    "text": ",",
+    "listingUrl": "",
+    "replyTo": null,
+    "likedBy": [],
+    "reportedBy": [],
+    "reports": [],
+    "createdAt": "2026-05-05T01:54:15.992Z"
+  },
+  {
+    "id": "50897e03-3468-4e56-ad9e-50b9615a3586",
+    "userId": "superfinderx-ai",
+    "username": "superfinderx-ai",
+    "role": "assistant",
+    "status": "sent",
+    "text": "Weather for Richmond Hill, Ontario, Canada: 10°C and overcast, feeling like 7°C. Today's range is about 8°C to 18°C. Rain chance today is about 38%. Wind is around 15 km/h, gusting to 28 km/h. Humidity is 78%.",
+    "listingUrl": "",
+    "replyTo": {
+      "id": "9736cc2f-964f-4dc9-980a-95a214720e4e",
+      "username": "isaacbeg1",
+      "text": "thank you. but on question what's the weather in Richmond Hill Ontario",
+      "listingUrl": ""
+    },
+    "likedBy": [],
+    "reportedBy": [],
+    "reports": [],
+    "createdAt": "2026-05-05T20:43:39.947Z"
+  },
+  {
+    "id": "357e1b04-7447-4c9a-ae23-664ee99c00a9",
+    "userId": "superfinderx-ai",
+    "username": "superfinderx-ai",
+    "role": "assistant",
+    "status": "sent",
+    "text": "I had trouble reaching the AI service, but I will still answer every message. Please send that again with one extra detail if you want a sharper response.",
+    "listingUrl": "",
+    "replyTo": {
+      "id": "a3765d1b-47d3-46a1-8f53-c8fa26ac53af",
+      "username": "isaacbeg1",
+      "text": ",",
+      "listingUrl": ""
+    },
+    "likedBy": [],
+    "reportedBy": [],
+    "reports": [],
+    "createdAt": "2026-05-05T20:43:39.947Z"
+  },
+  {
+    "id": "18406de5-14f7-45b5-b7c0-d4a7b78ead10",
+    "userId": "8fe95888-48a5-4b74-ae6b-0fab6fdafc5e",
+    "username": "isaacbeg1",
+    "role": "user",
+    "status": "sent",
+    "text": "hi, I want to do something what are some places I could go in Markham?",
+    "listingUrl": "",
+    "replyTo": null,
+    "likedBy": [],
+    "reportedBy": [],
+    "reports": [],
+    "createdAt": "2026-05-05T20:44:22.478Z"
+  },
+  {
+    "id": "5d19079d-c01d-421f-a013-dde9598f0e6d",
+    "userId": "superfinderx-ai",
+    "username": "superfinderx-ai",
+    "role": "assistant",
+    "status": "sent",
+    "text": "I couldn’t access live local results right now, but here are good options to check… 1. Name: Main Street Unionville. Type of food/store: Walkable historic street. Why it may be good: Good for a casual walk, cafes, dessert, photos, and a low-pressure hangout. Area/location: Unionville, Markham. 2. Name: CF Markville. Type of food/store: Shopping mall. Why it may be good: Easy indoor option for shopping, food, and killing time when weather is bad. Area/location: Markham. 3. Name: Milne Dam Conservation Park. Type of food/store: Park / nature walk. Why it may be good: Good for fresh air, walking trails, and a quieter daytime plan. Area/location: Markham. 4. Name: Cineplex Cinemas Markham and VIP. Type of food/store: Movies / entertainment. Why it may be good: Reliable evening option if you want something simple and indoors. Area/location: Markham. Reminder: check current hours, recent reviews, menu/store inventory, and distance before you go.",
+    "listingUrl": "",
+    "replyTo": {
+      "id": "18406de5-14f7-45b5-b7c0-d4a7b78ead10",
+      "username": "isaacbeg1",
+      "text": "hi, I want to do something what are some places I could go in Markham?",
+      "listingUrl": ""
+    },
+    "likedBy": [],
+    "reportedBy": [],
+    "reports": [],
+    "createdAt": "2026-05-05T20:44:22.479Z"
+  },
+  {
+    "id": "85df1d0e-e822-407c-8329-9403159d0e7b",
+    "userId": "8fe95888-48a5-4b74-ae6b-0fab6fdafc5e",
+    "username": "isaacbeg1",
+    "role": "user",
+    "status": "sent",
+    "text": "whats the best food places based on reviews in Richmond Hill",
+    "listingUrl": "",
+    "replyTo": null,
+    "likedBy": [],
+    "reportedBy": [],
+    "reports": [],
+    "createdAt": "2026-05-05T20:45:07.458Z"
+  },
+  {
+    "id": "c1152e16-df97-4038-8e6b-e195a119d121",
+    "userId": "superfinderx-ai",
+    "username": "superfinderx-ai",
+    "role": "assistant",
+    "status": "sent",
+    "text": "I couldn’t access live local results right now, but here are good options to check… 1. Name: Sarpa Trattoria. Type of food/store: Italian. Why it may be good: Good option to check for pasta, pizza, and a nicer sit-down dinner. Area/location: Richmond Hill. 2. Name: The Keg Steakhouse + Bar. Type of food/store: Steakhouse. Why it may be good: Reliable choice for steak, birthdays, and group dinners. Area/location: Richmond Hill. 3. Name: Congee Queen. Type of food/store: Chinese / Hong Kong comfort food. Why it may be good: Good to check for casual meals, congee, noodles, and shareable dishes. Area/location: Richmond Hill / nearby GTA. 4. Name: Shishlix. Type of food/store: Persian / Middle Eastern grill. Why it may be good: Worth checking for kebabs, grilled meats, and family-style meals. Area/location: Richmond Hill. Reminder: check current hours, recent reviews, menu/store inventory, and distance before you go.",
+    "listingUrl": "",
+    "replyTo": {
+      "id": "85df1d0e-e822-407c-8329-9403159d0e7b",
+      "username": "isaacbeg1",
+      "text": "whats the best food places based on reviews in Richmond Hill",
+      "listingUrl": ""
+    },
+    "likedBy": [],
+    "reportedBy": [],
+    "reports": [],
+    "createdAt": "2026-05-05T20:45:07.459Z"
+  },
+  {
+    "id": "9a47ce46-f63c-4d34-9038-516dc17540bc",
+    "userId": "1c83c218-3e55-4056-a9a0-b7ddab046b86",
+    "username": "isaacbeg2",
+    "role": "user",
+    "status": "sent",
+    "text": "hi",
+    "listingUrl": "",
+    "replyTo": null,
+    "likedBy": [],
+    "reportedBy": [
+      "1c83c218-3e55-4056-a9a0-b7ddab046b86"
+    ],
+    "reports": [
+      {
+        "userId": "1c83c218-3e55-4056-a9a0-b7ddab046b86",
+        "reason": "",
+        "createdAt": "2026-05-09T02:04:46.102Z"
+      }
+    ],
+    "createdAt": "2026-05-09T02:04:42.393Z"
+  },
+  {
+    "id": "c0f26f6a-782b-4953-9409-78caa52895cb",
+    "userId": "1c83c218-3e55-4056-a9a0-b7ddab046b86",
+    "username": "isaacbeg2",
+    "role": "user",
+    "status": "sent",
+    "text": ";io;i",
+    "listingUrl": "",
+    "replyTo": {
+      "id": "9a47ce46-f63c-4d34-9038-516dc17540bc",
+      "username": "isaacbeg2",
+      "text": "hi",
+      "listingUrl": ""
+    },
+    "likedBy": [],
+    "reportedBy": [
+      "1c83c218-3e55-4056-a9a0-b7ddab046b86"
+    ],
+    "reports": [
+      {
+        "userId": "1c83c218-3e55-4056-a9a0-b7ddab046b86",
+        "reason": "",
+        "createdAt": "2026-05-13T23:38:50.749Z"
+      }
+    ],
+    "createdAt": "2026-05-13T23:38:45.911Z"
+  },
+  {
+    "id": "5be2fe61-db8b-45bd-9bda-3364c8a8b692",
+    "userId": "1c83c218-3e55-4056-a9a0-b7ddab046b86",
+    "username": "isaacbeg2",
+    "role": "user",
+    "status": "sent",
+    "text": "] o[] []o[]",
+    "listingUrl": "",
+    "replyTo": null,
+    "likedBy": [],
+    "reportedBy": [],
+    "reports": [],
+    "createdAt": "2026-05-13T23:38:57.567Z"
+  }
+]

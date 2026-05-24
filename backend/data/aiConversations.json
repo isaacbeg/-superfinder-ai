@@ -1,0 +1,492 @@
+[
+  {
+    "id": "c4a3c88f-e9d0-41f4-a883-b6a4fa62ee28",
+    "userId": "69456cb4-8775-4274-a6b3-4b362b3b7a1c",
+    "title": "Best restaurants in Richmond Hill",
+    "messages": [
+      {
+        "id": "6511fe21-6244-488f-8382-5b4051c22327",
+        "role": "user",
+        "status": "sent",
+        "text": "Best restaurants in Richmond Hill",
+        "createdAt": "2026-05-08T02:01:21.693Z"
+      },
+      {
+        "id": "4cc07a97-2218-4830-9de8-f0a458929db8",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live search is currently unavailable. Please try again.",
+        "createdAt": "2026-05-08T02:01:22.427Z"
+      },
+      {
+        "id": "5ec2b244-9326-4050-9efb-3512c2b2d322",
+        "role": "user",
+        "status": "sent",
+        "text": "Weather in Richmond Hill",
+        "createdAt": "2026-05-08T02:01:22.434Z"
+      },
+      {
+        "id": "f9f07ac4-f9f7-4c83-8efa-1f567df3bc47",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live search is currently unavailable. Please try again.",
+        "createdAt": "2026-05-08T02:01:22.995Z"
+      },
+      {
+        "id": "f5472d90-0577-4892-a3b9-61bba9ae1895",
+        "role": "user",
+        "status": "sent",
+        "text": "Best phone repair near Markham",
+        "createdAt": "2026-05-08T02:01:23.001Z"
+      },
+      {
+        "id": "f5d38132-4ed8-49e3-848a-c92771803a9e",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live search is currently unavailable. Please try again.",
+        "createdAt": "2026-05-08T02:01:23.551Z"
+      },
+      {
+        "id": "14fab279-41ab-459c-adee-5fab9db09069",
+        "role": "user",
+        "status": "sent",
+        "text": "Stores near me",
+        "createdAt": "2026-05-08T02:01:23.560Z"
+      },
+      {
+        "id": "ff38dc39-2855-4126-be8b-318e4870a8e8",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live search is currently unavailable. Please try again.",
+        "createdAt": "2026-05-08T02:01:24.110Z"
+      }
+    ],
+    "createdAt": "2026-05-08T02:01:21.690Z",
+    "updatedAt": "2026-05-08T02:01:24.110Z"
+  },
+  {
+    "id": "b6b4bb87-dfc2-4e56-aa93-bea1eae67bbf",
+    "userId": "1eef5f3e-6336-4b6b-9b59-4c3a6279fcad",
+    "title": "Best restaurants in Richmond Hill",
+    "messages": [
+      {
+        "id": "fe83f335-7c9c-4b01-aa95-279c90aac954",
+        "role": "user",
+        "status": "sent",
+        "text": "Best restaurants in Richmond Hill",
+        "createdAt": "2026-05-08T02:02:34.875Z"
+      },
+      {
+        "id": "afe29f9e-19c6-4d19-aaf6-d54cb98f4b3a",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live search is currently unavailable. Please try again.",
+        "createdAt": "2026-05-08T02:02:35.557Z"
+      },
+      {
+        "id": "801a6c9b-2ba6-4aef-a37e-c8b041967a5f",
+        "role": "user",
+        "status": "sent",
+        "text": "Weather in Richmond Hill",
+        "createdAt": "2026-05-08T02:02:35.575Z"
+      },
+      {
+        "id": "88ae52a7-c7d1-4c18-8b61-9f3a3a7814f2",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live search is currently unavailable. Please try again.",
+        "createdAt": "2026-05-08T02:02:36.134Z"
+      },
+      {
+        "id": "04560182-2156-4040-a733-95ce08faf6c4",
+        "role": "user",
+        "status": "sent",
+        "text": "Best phone repair near Markham",
+        "createdAt": "2026-05-08T02:02:36.138Z"
+      },
+      {
+        "id": "617064b0-7a93-4658-a71c-14f489283544",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live search is currently unavailable. Please try again.",
+        "createdAt": "2026-05-08T02:02:36.688Z"
+      },
+      {
+        "id": "dad67e46-4677-4080-ad29-952c606a7b4c",
+        "role": "user",
+        "status": "sent",
+        "text": "Stores near me",
+        "createdAt": "2026-05-08T02:02:36.695Z"
+      },
+      {
+        "id": "26f6e31a-68c8-4a29-b20c-53b5d4302367",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live search is currently unavailable. Please try again.",
+        "createdAt": "2026-05-08T02:02:37.245Z"
+      },
+      {
+        "id": "2ee78b90-3a66-4b6f-8a6b-71e666dcd6b4",
+        "role": "user",
+        "status": "sent",
+        "text": "Things to do nearby",
+        "createdAt": "2026-05-08T02:02:37.253Z"
+      },
+      {
+        "id": "6b831097-acd4-4314-8b26-d8081a15d446",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live search is currently unavailable. Please try again.",
+        "createdAt": "2026-05-08T02:02:37.812Z"
+      }
+    ],
+    "createdAt": "2026-05-08T02:02:34.873Z",
+    "updatedAt": "2026-05-08T02:02:37.812Z"
+  },
+  {
+    "id": "a3821f62-380a-4ad0-ac2e-fe24e8018a5e",
+    "userId": "49353f5a-c222-4e41-9366-d0b0f244206d",
+    "title": "Best restaurants in Richmond Hill",
+    "messages": [
+      {
+        "id": "4b8653ad-5cbf-4419-8e95-5407888420fb",
+        "role": "user",
+        "status": "sent",
+        "text": "Best restaurants in Richmond Hill",
+        "createdAt": "2026-05-08T02:03:50.916Z"
+      },
+      {
+        "id": "f1b865f9-9259-42e8-8d49-dcab81bdc8de",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live local results for \"Best restaurants in Richmond Hill\" near Richmond Hill: 1. Business name: Mangal Prime Rating: Not available Address/location: 9724 Yonge St Type of business: Turkish Why recommended: Recommended because it Closes soon · 10:30 p.m.. Source: https://www.google.com/maps/search/?api=1&query=Mangal+Prime+9724+Yonge+St 2. Business name: SUGAR Cafe and Lounge Rating: Not available Address/location: 550 York Regional Rd 7 Building E, Floor 2, Unit 281 Type of business: Restaurant Why recommended: Recommended because it appears in live SerpApi results for \"Best restaurants in Richmond Hill\". Source: https://www.google.com/maps/search/?api=1&query=SUGAR+Cafe+and+Lounge+550+York+Regional+Rd+7+Building+E%2C+Floor+2%2C+Unit+281 3. Business name: Osmow's Shawarma Rating: Not available Address/location: 1070 Major Mackenzie Dr E F0106 Type of business: Shawarma restaurant Why recommended: Recommended because it appears in live SerpApi results for \"Best restaurants in Richmond",
+        "createdAt": "2026-05-08T02:03:57.807Z"
+      },
+      {
+        "id": "b983e406-b0d3-4037-b848-9b7d7213c35d",
+        "role": "user",
+        "status": "sent",
+        "text": "Weather in Richmond Hill",
+        "createdAt": "2026-05-08T02:03:57.815Z"
+      },
+      {
+        "id": "8be62d01-98a7-438c-b7c9-5f559c98e942",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live weather for Richmond Hill, ON (Thursday 10:00 p.m.): Temperature: 6°C Condition: Mostly cloudy Precipitation: 10% Humidity: 63% Wind: 5 km/h Forecast: Thursday: Light rain; Friday: Light rain; Saturday: Light rain Source: https://www.google.com/search?q=weather%20Richmond%20Hill",
+        "createdAt": "2026-05-08T02:04:00.850Z"
+      },
+      {
+        "id": "36621a6a-6e09-49cb-9ec9-b49645ef3c7c",
+        "role": "user",
+        "status": "sent",
+        "text": "Best phone repair near Markham",
+        "createdAt": "2026-05-08T02:04:00.858Z"
+      },
+      {
+        "id": "3710e616-3b28-4b3d-9395-6438ef122ffa",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live local results for \"Best phone repair near Markham\" near Markham: 1. Business name: Mobile Square - We Fix and Unlock Rating: Not available Address/location: 8339 Kennedy Rd #2367-2368 Type of business: Mobile phone repair shop Why recommended: Recommended because it Closed · Opens 12 p.m. Fri. Source: https://www.google.com/maps/search/?api=1&query=Mobile+Square+-+We+Fix+and+Unlock+8339+Kennedy+Rd+%232367-2368 2. Business name: UniverCell Markham - Buy | Sell | Repair Rating: Not available Address/location: 50 Karachi Dr Unit - 52 Type of business: Mobile phone repair shop Why recommended: Recommended because it Closed · Opens 10 a.m. Fri. Source: https://www.google.com/maps/search/?api=1&query=UniverCell+Markham+-+Buy+%7C+Sell+%7C+Repair+50+Karachi+Dr+Unit+-+52 3. Business name: Mobile Surgeon Rating: Not available Address/location: Pacific Mall, Top Floor Inside Food Court, C1235, 4300 Steeles Ave E Type of business: Mobile phone repair shop Why recommended: Recommended because",
+        "createdAt": "2026-05-08T02:04:04.674Z"
+      },
+      {
+        "id": "794fc5b2-10be-4679-9cc3-acb59e132d69",
+        "role": "user",
+        "status": "sent",
+        "text": "Stores near me",
+        "createdAt": "2026-05-08T02:04:04.682Z"
+      },
+      {
+        "id": "a69beeaa-38a6-4940-a7f6-668d8e6d3c12",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live local results for \"Stores near Markham, Ontario\" near Markham, Ontario: 1. Business name: First Markham Place Rating: Not available Address/location: 3255 Hwy 7 Type of business: Shopping mall Why recommended: Recommended because it Closed · Opens 10 a.m. Fri. Source: https://www.google.com/maps/search/?api=1&query=First+Markham+Place+3255+Hwy+7 2. Business name: Downtown Markham Rating: Not available Address/location: 179 Enterprise Blvd Type of business: Shopping mall Why recommended: Recommended because it Closed · Opens 11 a.m. Fri. Source: https://www.google.com/maps/search/?api=1&query=Downtown+Markham+179+Enterprise+Blvd 3. Business name: Markham Town Square Rating: Not available Address/location: 8601 Warden Ave. Type of business: Shopping mall Why recommended: Recommended because it Closed · Opens 8 a.m. Fri. Source: https://www.google.com/maps/search/?api=1&query=Markham+Town+Square+8601+Warden+Ave. 4. Business name: First Markham Place Rating: Not available Address/loca",
+        "createdAt": "2026-05-08T02:04:06.798Z"
+      },
+      {
+        "id": "b97c47ca-6940-4041-997d-29717dcf355b",
+        "role": "user",
+        "status": "sent",
+        "text": "Things to do nearby",
+        "createdAt": "2026-05-08T02:04:06.806Z"
+      },
+      {
+        "id": "705f685a-bde0-457b-ba4b-3895538fd717",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live local results for \"Things to do near Markham, Ontario\" near Markham, Ontario: 1. Business name: THE 15 BEST Things to Do in Markham (2026) Rating: Not available Address/location: Top Attractions in Markham ; 1. Toogood Pond Park · 4.4. (164) ; 2. Flato Markham Theatre · 4.4. (48) ; 3. Pacific Mall Toronto · 3.3. (342) ; 4. Reesor Farm Market. Type of business: Local business Why recommended: Recommended because it appears in live SerpApi results for \"Things to do near Markham, Ontario\". Source: https://www.tripadvisor.ca/Attractions-g181720-Activities-Markham_Ontario.html 2. Business name: No Sunshine, No Problem: Things To Do Indoors in Markham Rating: Not available Address/location: Hub Climbing Cold days are no obstacle at Hub Climbing, one of Canada's largest indoor rock climbing gyms. · Joyride 150 · SkyFlow Yoga · Indoor ... Type of business: Local business Why recommended: Recommended because it appears in live SerpApi results for \"Things to do near Markham, Ontario\". Sourc",
+        "createdAt": "2026-05-08T02:04:08.842Z"
+      }
+    ],
+    "createdAt": "2026-05-08T02:03:50.914Z",
+    "updatedAt": "2026-05-08T02:04:08.842Z"
+  },
+  {
+    "id": "102b5aaf-d16b-4388-be47-32d4d66c1de2",
+    "userId": "d7d631ec-b0a8-4dfb-ae42-781b15c85d67",
+    "title": "Best restaurants in Richmond Hill",
+    "messages": [
+      {
+        "id": "8634b608-a8ac-40a1-b3c7-7d225775f14b",
+        "role": "user",
+        "status": "sent",
+        "text": "Best restaurants in Richmond Hill",
+        "createdAt": "2026-05-08T02:05:19.268Z"
+      },
+      {
+        "id": "e71b317e-d011-4818-b6c1-5d18bf5e4e36",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live local results for \"Best restaurants in Richmond Hill\" near Richmond Hill:\n\n1. Business name: Mangal Prime\nRating: Not available\nAddress/location: 9724 Yonge St\nType of business: Turkish\nWhy recommended: Recommended because it Closes soon · 10:30 p.m..\nSource: https://www.google.com/maps/search/?api=1&query=Mangal+Prime+9724+Yonge+St\n\n2. Business name: SUGAR Cafe and Lounge\nRating: Not available\nAddress/location: 550 York Regional Rd 7 Building E, Floor 2, Unit 281\nType of business: Restaurant\nWhy recommended: Recommended because it appears in live SerpApi results for \"Best restaurants in Richmond Hill\".\nSource: https://www.google.com/maps/search/?api=1&query=SUGAR+Cafe+and+Lounge+550+York+Regional+Rd+7+Building+E%2C+Floor+2%2C+Unit+281\n\n3. Business name: Osmow's Shawarma\nRating: Not available\nAddress/location: 1070 Major Mackenzie Dr E F0106\nType of business: Shawarma restaurant\nWhy recommended: Recommended because it appears in live SerpApi results for \"Best restaurants in Richmond Hill\".\nSource: https://www.google.com/maps/search/?api=1&query=Osmow%27s+Shawarma+1070+Major+Mackenzie+Dr+E+F0106\n\n4. Business name: Mangal Prime\nRating: Not available\nAddress/location: 9724 Yonge St\nType of business: Turkish\nWhy recommended: Recommended because it Closes soon · 10:30 p.m..\nSource: https://www.google.com/maps/search/?api=1&query=Mangal+Prime+9724+Yonge+St\n\n5. Business name: SUGAR Cafe and Lounge\nRating: Not available\nAddress/location: 550 York Regional Rd 7 Building E, Floor 2, Unit 281\nType of business: Restaurant\nWhy recommended: Recommended because it appears in live SerpApi results for \"Best restaurants in Richmond Hill\".\nSource: https://www.google.com/maps/search/?api=1&query=SUGAR+Cafe+and+Lounge+550+York+Regional+Rd+7+Building+E%2C+Floor+2%2C+Unit+281\n\n6. Business name: Osmow's Shawarma\nRating: Not available\nAddress/location: 1070 Major Mackenzie Dr E F0106\nType of business: Shawarma restaurant\nWhy recommended: Recommended because it appears in live SerpApi results for \"Best restaurants in Richmond Hill\".\nSource: https://www.google.com/maps/search/?api=1&query=Osmow%27s+Shawarma+1070+Major+Mackenzie+Dr+E+F0106",
+        "createdAt": "2026-05-08T02:05:19.418Z"
+      },
+      {
+        "id": "2569969a-5771-4cf9-b36b-863ae4ee2c0f",
+        "role": "user",
+        "status": "sent",
+        "text": "Weather in Richmond Hill",
+        "createdAt": "2026-05-08T02:05:19.424Z"
+      },
+      {
+        "id": "50ffae27-360d-4cfe-a375-783bdee8a08d",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live weather for Richmond Hill, ON (Thursday 10:00 p.m.):\nTemperature: 6°C\nCondition: Mostly cloudy\nPrecipitation: 10%\nHumidity: 63%\nWind: 5 km/h\nForecast: Thursday: Light rain; Friday: Light rain; Saturday: Light rain\nSource: https://www.google.com/search?q=weather%20Richmond%20Hill",
+        "createdAt": "2026-05-08T02:05:19.458Z"
+      }
+    ],
+    "createdAt": "2026-05-08T02:05:19.265Z",
+    "updatedAt": "2026-05-08T02:05:19.458Z"
+  },
+  {
+    "id": "65de8f1e-83b6-43df-9b3b-12278abf1199",
+    "userId": "3f142fdd-4d94-4275-b674-6e4aa922e705",
+    "title": "Best restaurants in Richmond Hill",
+    "messages": [
+      {
+        "id": "f61591b0-63f9-4dac-8429-ca09d63c619d",
+        "role": "user",
+        "status": "sent",
+        "text": "Best restaurants in Richmond Hill",
+        "createdAt": "2026-05-08T02:36:32.707Z"
+      },
+      {
+        "id": "99ca0c33-2e42-4e36-8ee8-6d1c706dc8a3",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live local results for \"Best restaurants in Richmond Hill\" near Richmond Hill:\n\n1. Business name: The 5 Spot Richmond Hill\nRating: 4.4 stars\nNumber of reviews: 504\nReview highlights:\n- The food was outstanding, service was on point and the atmosphere was great.\nAddress: 3742 US-17, Richmond Hill, GA 31324\nPhone: (912) 200-4480\nWebsite: https://www.5spotrichmondhill.com/\nGoogle Maps URL: https://www.google.com/maps/search/?api=1&query=The+5+Spot+Richmond+Hill+3742+US-17%2C+Richmond+Hill%2C+GA+31324&query_place_id=ChIJ3XyjZRoP-4gRWPdXgJTY67o\nOpen/closed status: Closed · Opens 11 AM Fri\nBusiness category/type: Restaurant\nWhy recommended: Recommended because it rated 4.4 stars, 504 reviews, Closed · Opens 11 AM Fri.\nSource: https://www.5spotrichmondhill.com/\n\n2. Business name: La Casita Peruvian Restaurant\nRating: 4.7 stars\nNumber of reviews: 576\nReview highlights:\n- The food and drinks were exquisite—everything exceeded expectations.\nAddress: 104 Dogwood Ave, Richmond Hill, GA 31324\nPhone: (912) 445-2287\nWebsite: https://lacasitaperuvianrestaurantrichmondhill.com/\nGoogle Maps URL: https://www.google.com/maps/search/?api=1&query=La+Casita+Peruvian+Restaurant+104+Dogwood+Ave%2C+Richmond+Hill%2C+GA+31324&query_place_id=ChIJ82wPUFoP-4gRX7owe2k3WbU\nOpen/closed status: Closed · Opens 11 AM Fri\nBusiness category/type: Peruvian restaurant\nWhy recommended: Recommended because it rated 4.7 stars, 576 reviews, Closed · Opens 11 AM Fri.\nSource: https://lacasitaperuvianrestaurantrichmondhill.com/\n\n3. Business name: Debellation Brewing Co\nRating: 4.8 stars\nNumber of reviews: 534\nReview highlights:\n- Great beer, Good food via little garden food truck and lively atmosphere.\nAddress: 822 Longwood Dr, Richmond Hill, GA 31324\nPhone: (912) 445-4282\nWebsite: https://www.debellationbrewing.com/\nGoogle Maps URL: https://www.google.com/maps/search/?api=1&query=Debellation+Brewing+Co+822+Longwood+Dr%2C+Richmond+Hill%2C+GA+31324&query_place_id=ChIJtfrc3ZcJ-4gRjYWhARNULJk\nOpen/closed status: Closed · Opens 12 PM Fri\nBusiness category/type: Brewery\nWhy recommended: Recommended because it rated 4.8 stars, 534 reviews, Closed · Opens 12 PM Fri.\nSource: https://www.debellationbrewing.com/\n\n4. Business name: Grit and Grain\nRating: 4.5 stars\nNumber of reviews: 180\nReview highlights:\n- Burger was excellent, drinks were delicious and a great atmosphere.\nAddress: 10132 Ford Ave, Richmond Hill, GA 31324\nPhone: (912) 445-5762\nWebsite: http://gritgrainrh.com/\nGoogle Maps URL: https://www.google.com/maps/search/?api=1&query=Grit+and+Grain+10132+Ford+Ave%2C+Richmond+Hill%2C+GA+31324&query_place_id=ChIJq31R-ukP-4gRRaVPsaKMLog\nOpen/closed status: Closed · Opens 5 PM Fri\nBusiness category/type: Southern restaurant (US)\nWhy recommended: Recommended because it rated 4.5 stars, 180 reviews, Closed · Opens 5 PM Fri.\nSource: http://gritgrainrh.com/\n\n5. Business name: Flashback\nRating: 4.4 stars\nNumber of reviews: 739\nReview highlights:\n- Friendly service, fun events, great live music, and AMAZING food.\nAddress: 10010 B Ford Ave, Richmond Hill, GA 31324\nPhone: (912) 445-0119\nWebsite: https://flashback-rocks-rh.com/about\nGoogle Maps URL: https://www.google.com/maps/search/?api=1&query=Flashback+10010+B+Ford+Ave%2C+Richmond+Hill%2C+GA+31324&query_place_id=ChIJgU59yz0P-4gRhau4EmjqIGs\nOpen/closed status: Open · Closes 12 AM\nBusiness category/type: Bar & grill\nWhy recommended: Recommended because it rated 4.4 stars, 739 reviews, Open · Closes 12 AM.\nSource: https://flashback-rocks-rh.com/about\n\n6. Business name: Green Spork Cafe & Market\nRating: 4.9 stars\nNumber of reviews: 449\nReview highlights:\n- Five star atmosphere, food and service.\nAddress: 10747 Ford Ave STE 10, Richmond Hill, GA 31324\nPhone: (912) 323-6046\nWebsite: http://www.greensporkcafe.com/\nGoogle Maps URL: https://www.google.com/maps/search/?api=1&query=Green+Spork+Cafe+%26+Market+10747+Ford+Ave+STE+10%2C+Richmond+Hill%2C+GA+31324&query_place_id=ChIJr4d9SVwP-4gROIygQdwyx4s\nOpen/closed status: Closed · Opens 7 AM Fri\nBusiness category/type: Cafe\nWhy recommended: Recommended because it rated 4.9 stars, 449 reviews, Closed · Opens 7 AM Fri.\nSource: http://www.greensporkcafe.com/",
+        "createdAt": "2026-05-08T02:36:39.306Z"
+      }
+    ],
+    "createdAt": "2026-05-08T02:36:32.703Z",
+    "updatedAt": "2026-05-08T02:36:39.306Z"
+  },
+  {
+    "id": "5b8c959a-05c5-44ca-8ff0-9845ddd0ccce",
+    "userId": "966590c1-cdba-4aa8-84fa-ee4889e10f52",
+    "title": "Best restaurants in Richmond Hill",
+    "messages": [
+      {
+        "id": "ff139c03-b61b-4238-b010-79062c60cc7d",
+        "role": "user",
+        "status": "sent",
+        "text": "Best restaurants in Richmond Hill",
+        "createdAt": "2026-05-08T02:37:47.333Z"
+      },
+      {
+        "id": "8fa01a61-4a5b-47af-bb98-6049ae2c81f1",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live local results for \"Best restaurants in Richmond Hill, Ontario\" near Richmond Hill, Ontario:\n\n1. Business name: Hongdae Korean Restaurant 홍대 밥상\nRating: 4.8 stars\nNumber of reviews: 2969\nReview highlights:\n- This is a hidden gem in Richmond Hill.\nAddress: 9184 Yonge St, Richmond Hill, ON L4C 7A1, Canada\nPhone: +1 905-881-5959\nWebsite: https://hongdaekoreanrestaurant.ca/\nGoogle Maps URL: https://www.google.com/maps/search/?api=1&query=Hongdae+Korean+Restaurant+%ED%99%8D%EB%8C%80+%EB%B0%A5%EC%83%81+9184+Yonge+St%2C+Richmond+Hill%2C+ON+L4C+7A1%2C+Canada&query_place_id=ChIJMTiqoy8rK4gRoAVb0o21xlg\nOpen/closed status: Closes soon · 11 PM · Opens 11:30 AM Fri\nBusiness category/type: Korean restaurant\nWhy recommended: Recommended because it rated 4.8 stars, 2969 reviews, Closes soon · 11 PM · Opens 11:30 AM Fri.\nSource: https://hongdaekoreanrestaurant.ca/\n\n2. Business name: Mangal Prime\nRating: 4.9 stars\nNumber of reviews: 1387\nReview highlights:\n- One of the best restaurants in GTA\nAddress: 9724 Yonge St, Richmond Hill, ON L4C 1V9, Canada\nPhone: +1 905-251-3015\nWebsite: https://mangalprime.com/\nGoogle Maps URL: https://www.google.com/maps/search/?api=1&query=Mangal+Prime+9724+Yonge+St%2C+Richmond+Hill%2C+ON+L4C+1V9%2C+Canada&query_place_id=ChIJ3csCEgArK4gRv6F0CwS9Zgs\nOpen/closed status: Closed · Opens 11 AM Fri\nBusiness category/type: Turkish restaurant\nWhy recommended: Recommended because it rated 4.9 stars, 1387 reviews, Closed · Opens 11 AM Fri.\nSource: https://mangalprime.com/\n\n3. Business name: Jatujak - Richmond hill\nRating: 4.7 stars\nNumber of reviews: 1564\nReview highlights:\n- Food and atmosphere is great for a small spot in Richmond Hill.\nAddress: 10255 Yonge St Unit 1, Richmond Hill, ON L4C 3B2, Canada\nPhone: +1 905-780-0111\nWebsite: https://jatujak.ca/\nGoogle Maps URL: https://www.google.com/maps/search/?api=1&query=Jatujak+-+Richmond+hill+10255+Yonge+St+Unit+1%2C+Richmond+Hill%2C+ON+L4C+3B2%2C+Canada&query_place_id=ChIJUXFORQArK4gReHXpQbdzpio\nOpen/closed status: Closed · Opens 11 AM Fri\nBusiness category/type: Thai restaurant\nWhy recommended: Recommended because it rated 4.7 stars, 1564 reviews, Closed · Opens 11 AM Fri.\nSource: https://jatujak.ca/\n\n4. Business name: Dorchin Restaurant\nRating: 4.9 stars\nNumber of reviews: 493\nReview highlights:\n- If you come to Richmond Hill, you should definitely try this place!\nAddress: 10123 Yonge St, Richmond Hill, ON L4C 1T7, Canada\nPhone: +1 905-237-6800\nWebsite: https://dorchin.ca/\nGoogle Maps URL: https://www.google.com/maps/search/?api=1&query=Dorchin+Restaurant+10123+Yonge+St%2C+Richmond+Hill%2C+ON+L4C+1T7%2C+Canada&query_place_id=ChIJO3FcV7YrK4gR5fp5kLBm9zs\nOpen/closed status: Closed · Opens 11 AM Fri\nBusiness category/type: Middle Eastern restaurant\nWhy recommended: Recommended because it rated 4.9 stars, 493 reviews, Closed · Opens 11 AM Fri.\nSource: https://dorchin.ca/\n\n5. Business name: The Finger Food Factory Inc.\nRating: 4.9 stars\nNumber of reviews: 39\nReview highlights:\n- Reviews not available from live search.\nAddress: 636 Edward Ave #9, Richmond Hill, ON L4C 0V4, Canada\nPhone: +1 416-500-3663\nWebsite: http://www.thefingerfoodfactory.com/\nGoogle Maps URL: https://www.google.com/maps/search/?api=1&query=The+Finger+Food+Factory+Inc.+636+Edward+Ave+%239%2C+Richmond+Hill%2C+ON+L4C+0V4%2C+Canada&query_place_id=ChIJndNQF-IrK4gRN4f02jxx-FU\nOpen/closed status: Closed · Opens 11:30 AM Fri\nBusiness category/type: Restaurant\nWhy recommended: Recommended because it rated 4.9 stars, 39 reviews, Closed · Opens 11:30 AM Fri.\nSource: http://www.thefingerfoodfactory.com/\n\n6. Business name: Grillies ( Richmond Hill )\nRating: 4.7 stars\nNumber of reviews: 1104\nReview highlights:\n- best food place in richmond hill , good service and food and atmosphere\nAddress: 10626 Bayview Ave, Richmond Hill, ON L4C 3N8, Canada\nPhone: +1 905-787-9799\nWebsite: https://www.grillies.ca/\nGoogle Maps URL: https://www.google.com/maps/search/?api=1&query=Grillies+%28+Richmond+Hill+%29+10626+Bayview+Ave%2C+Richmond+Hill%2C+ON+L4C+3N8%2C+Canada&query_place_id=ChIJJUTDcKQrK4gRWpIE_LO2qS0\nOpen/closed status: Open · Closes 2 AM\nBusiness category/type: Tex-Mex restaurant\nWhy recommended: Recommended because it rated 4.7 stars, 1104 reviews, Open · Closes 2 AM.\nSource: https://www.grillies.ca/",
+        "createdAt": "2026-05-08T02:37:49.832Z"
+      }
+    ],
+    "createdAt": "2026-05-08T02:37:47.329Z",
+    "updatedAt": "2026-05-08T02:37:49.832Z"
+  },
+  {
+    "id": "268f9050-05a9-4483-893e-6eb7bd4210c4",
+    "userId": "8fe95888-48a5-4b74-ae6b-0fab6fdafc5e",
+    "title": "Weather reliability test",
+    "messages": [
+      {
+        "id": "b6ec89c3-8213-4ac6-a66a-adbeb13909be",
+        "role": "user",
+        "status": "sent",
+        "text": "Send me the live weather in Richmond Hill",
+        "createdAt": "2026-05-13T23:26:06.494Z"
+      },
+      {
+        "id": "5bcde946-9d47-4c90-b650-36cca373c959",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live weather for Richmond Hill, Ontario, Canada:\nCurrent temperature: 7°C\nCondition: overcast\nHigh/low: 14°C / 5°C\nChance of rain: 90%\nHumidity: 87%\nWind: 18 km/h\nPrecipitation: 0 mm\nHourly forecast:\n- 8 PM: 7°C, overcast, 1% rain\n- 9 PM: 6°C, overcast, 1% rain\n- 10 PM: 6°C, overcast, 3% rain\n- 11 PM: 6°C, overcast, 3% rain\n- 12 AM: 6°C, overcast, 1% rain\n- 1 AM: 6°C, overcast, 3% rain\nDaily forecast:\n- Wed, May 13: 14°C / 5°C, rain, 90% rain\n- Thu, May 14: 9°C / 6°C, light drizzle, 8% rain\n- Fri, May 15: 17°C / 6°C, overcast, 1% rain\nSource: Open-Meteo",
+        "createdAt": "2026-05-13T23:26:07.172Z"
+      }
+    ],
+    "createdAt": "2026-05-13T23:26:06.483Z",
+    "updatedAt": "2026-05-13T23:26:07.172Z"
+  },
+  {
+    "id": "b875786d-af86-4252-85af-3a6277f69ddf",
+    "userId": "8fe95888-48a5-4b74-ae6b-0fab6fdafc5e",
+    "title": "Math reliability test",
+    "messages": [
+      {
+        "id": "d38e89c0-20fd-4123-8c3d-024dd904a976",
+        "role": "user",
+        "status": "sent",
+        "text": "what is 15% of 80",
+        "createdAt": "2026-05-13T23:26:13.415Z"
+      },
+      {
+        "id": "d7ff6c16-71f9-446d-85f8-00d25b33d5bc",
+        "role": "assistant",
+        "status": "sent",
+        "text": "I had trouble reaching the AI service, but I will still answer every message. Please send that again with one extra detail if you want a sharper response.",
+        "createdAt": "2026-05-13T23:26:13.416Z"
+      }
+    ],
+    "createdAt": "2026-05-13T23:26:13.409Z",
+    "updatedAt": "2026-05-13T23:26:13.416Z"
+  },
+  {
+    "id": "c169e5ad-8061-4d2b-95f2-a99569c7c18d",
+    "userId": "8fe95888-48a5-4b74-ae6b-0fab6fdafc5e",
+    "title": "Math reliability retest",
+    "messages": [
+      {
+        "id": "edfdf6ef-2e97-4de9-a06a-4fbd7f8378c9",
+        "role": "user",
+        "status": "sent",
+        "text": "what is 15% of 80",
+        "createdAt": "2026-05-13T23:26:40.516Z"
+      },
+      {
+        "id": "67339de7-9aed-4186-b651-6fc04cf880b2",
+        "role": "assistant",
+        "status": "sent",
+        "text": "15% of 80 = 12.",
+        "createdAt": "2026-05-13T23:26:40.530Z"
+      }
+    ],
+    "createdAt": "2026-05-13T23:26:40.507Z",
+    "updatedAt": "2026-05-13T23:26:40.530Z"
+  },
+  {
+    "id": "adb036ab-a0cf-47dd-a809-91fb1f6a3f67",
+    "userId": "8fe95888-48a5-4b74-ae6b-0fab6fdafc5e",
+    "title": "Deal reliability test",
+    "messages": [
+      {
+        "id": "2fee2a55-2d57-4592-b169-67d6068daebd",
+        "role": "user",
+        "status": "sent",
+        "text": "Find iPhone 15 Pro Max deals in Richmond Hill",
+        "createdAt": "2026-05-13T23:26:49.890Z"
+      },
+      {
+        "id": "48a24608-bd11-4af7-9367-7395cfe203cf",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live Deal Hunter listings for \"iPhone 15 Pro Max\" near Richmond Hill, Ontario, Canada:\n\n1. Product: iPhone 15 Pro Max\nPrice: $750\nCondition: New\nLocation: Richmond Hill, Ontario, Canada\nDescription: Mobile Phones - iPhone 15 Pro Max 256GB iPhone 15 Pro Max 256GB available. Good shape and works exactly as it should. Unlocked to any carrier. Reset and ready for new owner. $750 cash firm. Facebook $750.00 In stock 4.9(520)\nSource: Facebook Marketplace\nSource link: https://www.facebook.com/marketplace/item/2197377414132703/?locale=hy_AM\nScore: 83/100\n\n2. Product: iPhone 15 Pro Max\nPrice: $740\nCondition: Like new\nLocation: Waterloo, ON\nDescription: Iphone 15 pro max 256gb battery life 88%[open box] No photo description available. 849 CA$. Iphone 15 pro max - price firm. Waterloo, ON. Facebook $740.00 4.4(61)\nSource: Facebook Marketplace\nSource link: https://www.facebook.com/marketplace/item/1325160792863162/?locale=da_DK\nScore: 79/100\n\n3. Product: iPhone 15 Pro Max\nPrice: $725\nCondition: New\nLocation: Toronto, Ontario\nDescription: iPhone 15 Pro Max (256gb) - Cell Phones - Toronto, Ontario No photo description available. 1 100 CA$. iPhone 15 Pro Max 512GB L ; Apple Iphone 15 Pro Max256 GB for sale - Used - Like New - 900 CA. 900 CA$. Apple Iphone ... Facebook $725.00 4.2(27)\nSource: Facebook Marketplace\nSource link: https://www.facebook.com/marketplace/item/1298608142373230/?locale=hy_AM\nScore: 77/100\n\n4. Product: iPhone 15 Pro Max\nPrice: $133\nCondition: Not listed\nLocation: Richmond Hill, ON\nDescription: iPhone 15 Pro Max 256gb M5329 - Marketplace iPhone 15 Pro Max 256gb M5329 photo 1. iPhone 15 Pro Max 256gb M5329. CA$133 per item · In Stock. Listed 20 minutes ago in Richmond Hill, ON ... Franchise ... Facebook\nSource: Facebook Marketplace\nSource link: https://www.facebook.com/marketplace/item/1322732419675977/\nScore: 75/100\n\n5. Product: iPhone 15 Pro Max\nPrice: $97\nCondition: Not listed\nLocation: Richmond Hill, Ontario, Canada\nDescription: iPhone 15 Pro Max // Black Titanium // 256 GB / Unlocked & ... iPhone 15 Pro Max // Black Titanium // 256 GB / Unlocked & ... 97 CA$. განთავსდა განცხადებათ 14 საათის წინ-ზე ... Facebook $97.00\nSource: Facebook Marketplace\nSource link: https://www.facebook.com/marketplace/item/2479433059163109/?locale=ka_GE\nScore: 75/100",
+        "createdAt": "2026-05-13T23:26:52.922Z"
+      }
+    ],
+    "createdAt": "2026-05-13T23:26:49.882Z",
+    "updatedAt": "2026-05-13T23:26:52.922Z"
+  },
+  {
+    "id": "ad8891c4-df39-4c2d-b8b7-6188aa6f9cba",
+    "userId": "6559be66-c8ee-4b06-9bbf-0c4f56331730",
+    "title": "hi",
+    "messages": [
+      {
+        "id": "636de6d3-853e-446d-8719-5facbb690c56",
+        "role": "user",
+        "status": "sent",
+        "text": "hi",
+        "createdAt": "2026-05-14T01:27:51.932Z"
+      },
+      {
+        "id": "a0011403-afdc-40be-820e-7e5009b36231",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Hey, how can I help?",
+        "createdAt": "2026-05-14T01:27:51.932Z"
+      }
+    ],
+    "createdAt": "2026-05-14T01:27:51.928Z",
+    "updatedAt": "2026-05-14T01:27:51.932Z"
+  },
+  {
+    "id": "96220ac1-a100-4fde-b845-3175eccdb5d8",
+    "userId": "a6337e43-5d37-4186-9e6f-1f9951789a3a",
+    "title": "is it worth it",
+    "messages": [
+      {
+        "id": "c5676743-79aa-4ca9-a14f-f09fb8f17500",
+        "role": "user",
+        "status": "sent",
+        "text": "is it worth it?",
+        "createdAt": "2026-05-14T01:28:04.514Z"
+      },
+      {
+        "id": "2c5d161c-ea3e-4335-abf0-b8713d5ec55a",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Short take: worth considering. iPhone 15 Pro at $800 in Like new condition with battery at 99% looks like a 89/100 deal. I would start around $740. Watch out for risk flags: battery health not provided. Before paying, verify IMEI/iCloud lock, Face ID, cameras, battery health in Settings, and meet in a public place.",
+        "createdAt": "2026-05-14T01:28:04.529Z"
+      }
+    ],
+    "createdAt": "2026-05-14T01:28:04.511Z",
+    "updatedAt": "2026-05-14T01:28:04.529Z"
+  },
+  {
+    "id": "fbf2c907-5663-4e40-afba-ab7f5ab8974e",
+    "userId": "c163d664-7fab-479b-abad-579aecfda496",
+    "title": "what is the weather in Richmond Hill",
+    "messages": [
+      {
+        "id": "c051123b-debf-47e4-9ef4-476b0369ab1d",
+        "role": "user",
+        "status": "sent",
+        "text": "what is the weather in Richmond Hill?",
+        "createdAt": "2026-05-14T01:28:16.390Z"
+      },
+      {
+        "id": "e666c728-32f2-4cc9-be9a-0e9467f7ca6d",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Live weather for Richmond Hill, Ontario, Canada:\nCurrent temperature: 6°C\nCondition: overcast\nHigh/low: 14°C / 5°C\nChance of rain: 90%\nHumidity: 88%\nWind: 16 km/h\nPrecipitation: 0 mm\nHourly forecast:\n- 10 PM: 6°C, overcast, 3% rain\n- 11 PM: 6°C, overcast, 3% rain\n- 12 AM: 6°C, overcast, 2% rain\n- 1 AM: 6°C, light drizzle, 3% rain\n- 2 AM: 6°C, overcast, 4% rain\n- 3 AM: 6°C, overcast, 6% rain\nDaily forecast:\n- Wed, May 13: 14°C / 5°C, rain, 90% rain\n- Thu, May 14: 9°C / 6°C, light drizzle, 8% rain\n- Fri, May 15: 17°C / 6°C, overcast, 1% rain\nSource: Open-Meteo",
+        "createdAt": "2026-05-14T01:28:17.052Z"
+      }
+    ],
+    "createdAt": "2026-05-14T01:28:16.387Z",
+    "updatedAt": "2026-05-14T01:28:17.052Z"
+  },
+  {
+    "id": "27fc3915-d3a6-4386-a34c-0a284accea4b",
+    "userId": "1c83c218-3e55-4056-a9a0-b7ddab046b86",
+    "title": "hi",
+    "messages": [
+      {
+        "id": "a264f2d1-3e64-49dd-ba23-47e90ac99656",
+        "role": "user",
+        "status": "sent",
+        "text": "hi",
+        "createdAt": "2026-05-14T01:29:24.259Z"
+      },
+      {
+        "id": "8ce5e0e5-8598-437a-843b-736749f06f32",
+        "role": "assistant",
+        "status": "sent",
+        "text": "Hey, how can I help?",
+        "createdAt": "2026-05-14T01:29:24.259Z"
+      }
+    ],
+    "createdAt": "2026-05-14T01:29:24.252Z",
+    "updatedAt": "2026-05-14T01:29:24.259Z"
+  }
+]
