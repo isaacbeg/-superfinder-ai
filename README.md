@@ -1,6 +1,6 @@
 # SUPERFINDERX
 
-SUPERFINDERX is a local React and Express app for comparing marketplace-style listings by overall value. It ranks sample listings from a product, location, and pickup radius, then weighs price, condition, distance, seller reviews, and trust signals.
+SUPERFINDERX is an AI-powered local React and Express app for comparing marketplace-style listings by overall value. It ranks sample listings from a product, location, and pickup radius, then weighs price, condition, distance, seller reviews, and trust signals.
 
 ## What It Does
 
